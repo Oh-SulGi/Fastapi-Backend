@@ -12,7 +12,7 @@
 
 <br>
 
-## 백엔드 구조
+## REST API 구조
 
 <img src='./img/Untitled.png'>
 
@@ -149,8 +149,6 @@ models.py
   - 현재 접속한 유저의 총 주식평가액을 출력
 
 </details>
-
-<br>
 
 <br>
 
